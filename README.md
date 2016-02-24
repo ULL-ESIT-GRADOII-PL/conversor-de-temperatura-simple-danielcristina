@@ -9,13 +9,10 @@
 * Expresiones Regulares
 * Un poquito de CSS
 * Uso de Emmet (instale el plugin para su editor)
-* Uso de Mocha y Chai 
-* Uso de Gulp
 
-### Despliegue en github.io
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/)
+### Autores
 
-### Ejecutar las pruebas
+* alu0100811933 - Daniel Daher Pérez
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html)
+* alu0100821338 - Cristina Tosco González
