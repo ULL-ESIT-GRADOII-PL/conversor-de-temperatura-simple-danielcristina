@@ -10,20 +10,44 @@ input       {
               border: none;
               border-radius: 20px 20px 20px 20px;
               padding: 5px  5px;
-              font-size:large;       }
+              font-size:large;
+              color: #171119;   }
 body
 {
- background-color:#b0c4de;  /* blue */
+ background-image: url(http://www.estrellasdesannicolas.es/imagenes/estrellas2.jpg);  /* blue */
  font-size:large;
- font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+ font-family: "Arial", monospace;
+ color: #CDCDCD;
 }
 
 h1 {
-    font-weight: normal;
-    font-family: "Brush Script MT", cursive;
-    background: #3C5681;
-    padding: 5px 15px;
-    color: white;
-    display:inline-block;
-    border-radius: 10px 10px 10px 10px;
+
+  display:inline-block;
+     margin-left: 30%;
+      background: #D9DEEF;
+    text-align: center;
+    padding-top: 70px;
+    width: 500px;
+    height: 110px;
+    opacity: .75;
+
+        border-radius: 100px 100px 10px 10px;
+        border-bottom: solid #8A46A8 8px;
+
+
+    font-family: "Gadget", bold;
+
+
+    color: #171119;
+  /*  display:inline-block;*/
+
+
+}
+
+
+
+#imagen{
+  display: block;
+  margin-left: 40%;
+  opacity: .75;
 }
