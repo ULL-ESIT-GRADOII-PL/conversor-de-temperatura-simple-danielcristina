@@ -1,8 +1,9 @@
 th, td      {
                vertical-align: top;
                text-align: right;
+               padding-left: 30px;
                font-size:large;
-               // border: 1px solid black;
+
             }     /* Don't center table cells  */
 #converted  { color: red; font-weight: bold; font-size:large;          }     /* Calculated values in bold */
 input       {
@@ -12,8 +13,7 @@ input       {
               padding: 5px  5px;
               font-size:large;
               color: #171119;   }
-body
-{
+body {
  background-image: url(http://www.estrellasdesannicolas.es/imagenes/estrellas2.jpg);  /* blue */
  font-size:large;
  font-family: "Arial", monospace;
@@ -23,31 +23,27 @@ body
 h1 {
 
   display:inline-block;
-     margin-left: 30%;
-      background: #D9DEEF;
+    margin-left: 30%;
+    background: #D9DEEF;
     text-align: center;
     padding-top: 70px;
     width: 500px;
     height: 110px;
     opacity: .75;
-
-        border-radius: 100px 100px 10px 10px;
-        border-bottom: solid #8A46A8 8px;
-
-
+    border-radius: 100px 100px 10px 10px;
+    border-bottom: solid #8A46A8 8px;
     font-family: "Gadget", bold;
-
-
     color: #171119;
-  /*  display:inline-block;*/
-
-
 }
-
-
 
 #imagen{
   display: block;
   margin-left: 40%;
   opacity: .75;
+}
+
+#nombres{
+    text-align: right;
+    font-family: "Arial", cursive, bold;
+    color: #CDCDCD;
 }
